@@ -1,0 +1,8 @@
+{
+    "name": "Tether USD Bridged ZED20",
+    "symbol": "USDT.z",
+    "type": "ERC20",
+    "decimals": 18,
+    "chainId": 1,
+    "address": "0x4be35ec329343d7d9f548d42b0f8c17fffe07db4"
+}
